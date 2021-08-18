@@ -22,6 +22,9 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
   ## Software:
   MySQL, Javascript, Insomnia Core
+  
+  ## Walkthrough video:
+  There are five videos on [animation folder](https://github.com/cffhr99/BQ_Week_13_C/tree/main/animation) to show the walkthrough.
   ## Usage:
   ```
   mysql -u root -p # run the sql and create schema
